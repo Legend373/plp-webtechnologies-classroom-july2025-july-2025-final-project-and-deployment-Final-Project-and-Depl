@@ -1,0 +1,25 @@
+
+{
+"name": "professional-portfolio",
+"version": "1.0.0",
+"description": "A responsive and animated portfolio website",
+"main": "index.html",
+"scripts": {
+"start": "live-server --port=3000",
+"build": "echo 'No build process configured'",
+"test": "echo 'No tests specified'"
+},
+"keywords": [
+"portfolio",
+"responsive",
+"animation",
+"css",
+"javascript",
+"html5"
+],
+"author": "Yasmin Anwar",
+"license": "MIT",
+"devDependencies": {
+"live-server": "^1.2.2"
+}
+}
